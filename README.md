@@ -10,4 +10,4 @@ Implemented kNN with cosine similarity metric in order to recommend 'k' most sim
 - **`source`**: Contains Jupyter Notebooks for both tasks.
 - **`saved models`**: Contains trained models for both tasks in `.pkl` format
 - **`data`**: Contains dataset for each task in `.csv` format.
-- **`Report.pdf`**: A summary report outlining my approach and challenges faced while attempting these tasks.
+- **`Report.pdf`**: A summary report outlining my approach and challenges faced whilst attempting these tasks.
